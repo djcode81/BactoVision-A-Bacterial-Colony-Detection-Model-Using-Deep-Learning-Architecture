@@ -7,7 +7,7 @@ This project utilizes YOLOv5 for the automated detection of bacterial colonies i
 
 ### Dataset
 The dataset is from Solymosi, Norbert; Nagy, Sára (2023). Annotated dataset for deep-learning-based bacterial colony detection. figshare. Dataset. 
-[![View on Figshare](https://your-thumbnail-url)]((https://doi.org/10.6084/m9.figshare.22022540.v3))
+[![View on Figshare]]((https://doi.org/10.6084/m9.figshare.22022540.v3))
 
 The annotated bacterial colony images with labels formatted in YOLO format.
 
