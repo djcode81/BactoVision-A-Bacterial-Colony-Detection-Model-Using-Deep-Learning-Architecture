@@ -26,5 +26,5 @@ The following results were generated using the exported model on unseen test dat
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/djcode81/BactoVision.git
+   git clone https://github.com/djcode81/Deep-Learning-And-Image-Analysis-of-Bacterial-Colonies-with-PyTorch.git
  
