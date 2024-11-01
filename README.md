@@ -12,6 +12,14 @@ The dataset used for training includes annotated bacterial colony images with la
 - **Validation Images**: 74
 - **Test Images**: 74
 
+## Inference Results
+
+The following results were generated using the exported model on unseen test data:
+![Image 1](test_results/Unknown.png)
+![Image 2](test_results/Unknown-2.png)
+
+
+
 ### Installation
 1. Clone the repository:
    ```bash
