@@ -1,0 +1,11 @@
+# custom_data.yaml
+
+# File: custom_data.yaml
+train: /content/drive/MyDrive/Colab Notebooks/New Projects/22022540/images/train
+val: /content/drive/MyDrive/Colab Notebooks/New Projects/22022540/images/val
+test: /content/drive/MyDrive/Colab Notebooks/New Projects/22022540/images/test
+
+nc: 1  # Number of classes
+names: ['bacteria_colony']  # List of class names
+
+
